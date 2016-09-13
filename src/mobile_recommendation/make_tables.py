@@ -1,10 +1,11 @@
 #coding:utf-8
+# 太慢，不知为何毫无效果
 import numpy as np
 from numpy import *
 import pandas as pd
 import mysql.connector
 
-date_list = pd.date_range(start='2014-11-18', end='2014-11-18', freq='1d')
+date_list = pd.date_range(start='2014-11-20', end='2014-11-20', freq='1d')
 
 
 cnx = mysql.connector.connect(user='root', password='555321',
