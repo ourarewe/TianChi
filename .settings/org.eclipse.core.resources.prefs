@@ -2,3 +2,5 @@ eclipse.preferences.version=1
 encoding//src/Purchase_Redemption/__init__.py=utf-8
 encoding//src/mobile_recommendation/__init__.py=utf-8
 encoding//src/mobile_recommendation/make_tables.py=utf-8
+encoding//src/mobile_recommendation/scatter_plot.py=utf-8
+encoding//src/mobile_recommendation/test.py=utf-8
